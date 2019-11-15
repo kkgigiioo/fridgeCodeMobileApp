@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fridge Code Mobile App</string>
+    <string name="emailTV">Email:</string>
+    <string name="passwordTV">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="google_login">Please login with Google account</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="loguot">Loguot</string>
+</resources>

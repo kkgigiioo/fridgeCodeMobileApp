@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "362659499973",
+    "firebase_url": "https://fridgecodemobileapp.firebaseio.com",
+    "project_id": "fridgecodemobileapp",
+    "storage_bucket": "fridgecodemobileapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362659499973:android:6d250fa6bfed9c911ec5ac",
+        "android_client_info": {
+          "package_name": "com.example.fridgecodemobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362659499973-laou3lq6bv8dtt3npum7sls6u4cbtbdt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fridgecodemobileapp",
+            "certificate_hash": "0625ad7d4d4248b4052b2f2a68c133f4017086dd"
+          }
+        },
+        {
+          "client_id": "362659499973-87c0ej90u5n1ua1qcvaajpt08lpaooet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMghEnYkPWexFWsD5KIiTagwd2_oidqx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362659499973-87c0ej90u5n1ua1qcvaajpt08lpaooet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
